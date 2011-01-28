@@ -1,5 +1,7 @@
 <?php
 
+# Hendro Wicaksono (hendrowicaksono@yahoo.com)
+
 if (!defined('DB_HOST')) { define('DB_HOST', 'localhost'); }
 if (!defined('DB_PORT')) { define('DB_PORT', '3306'); }
 if (!defined('DB_HOST_PORT')) { define('DB_HOST_PORT', DB_HOST.':'.DB_PORT); }
